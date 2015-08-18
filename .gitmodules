@@ -1,0 +1,45 @@
+[submodule "build-golang"]
+	path = build-golang
+	url = https://github.com/Cepave/docker-openfalcon-golang
+[submodule "build-falcon"]
+	path = build-falcon
+	url = https://github.com/Cepave/docker-openfalcon-build
+[submodule "falcon-mysql"]
+	path = falcon-mysql
+	url = https://github.com/Cepave/docker-openfalcon-mysql
+[submodule "falcon-graph"]
+	path = falcon-graph
+	url = https://github.com/Cepave/docker-openfalcon-graph
+[submodule "falcon-query"]
+	path = falcon-query
+	url = https://github.com/Cepave/docker-openfalcon-query
+[submodule "falcon-transfer"]
+	path = falcon-transfer
+	url = https://github.com/Cepave/docker-openfalcon-transfer
+[submodule "falcon-dashboard"]
+	path = falcon-dashboard
+	url = https://github.com/Cepave/docker-openfalcon-dashboard
+[submodule "falcon-links"]
+	path = falcon-links
+	url = https://github.com/Cepave/docker-openfalcon-links
+[submodule "falcon-portal"]
+	path = falcon-portal
+	url = https://github.com/Cepave/docker-openfalcon-portal
+[submodule "falcon-hbs"]
+	path = falcon-hbs
+	url = https://github.com/Cepave/docker-openfalcon-hbs
+[submodule "falcon-alarm"]
+	path = falcon-alarm
+	url = https://github.com/Cepave/docker-openfalcon-alarm
+[submodule "falcon-judge"]
+	path = falcon-judge
+	url = https://github.com/Cepave/docker-openfalcon-judge
+[submodule "falcon-fe"]
+	path = falcon-fe
+	url = https://github.com/Cepave/docker-openfalcon-fe
+[submodule "falcon-sender"]
+	path = falcon-sender
+	url = https://github.com/Cepave/docker-openfalcon-sender
+[submodule "grafana"]
+	path = grafana
+	url = https://github.com/Cepave/docker-grafana
