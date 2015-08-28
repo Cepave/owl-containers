@@ -43,3 +43,6 @@
 [submodule "grafana"]
 	path = grafana
 	url = https://github.com/Cepave/docker-grafana
+[submodule "falcon-task"]
+	path = falcon-task
+	url = https://github.com/Cepave/docker-openfalcon-task
